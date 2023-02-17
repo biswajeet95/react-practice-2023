@@ -11,7 +11,7 @@ const TablePage = () => {
 
   return (
     <div>
-      <h1>Employee Name Table</h1>
+      <h1>Employee Name Table Data</h1>
 
       <button onClick={() => setShow(!show)}>Select item</button>
       <table>
