@@ -1,0 +1,25 @@
+.book-main {
+  display: flex;
+  flex-direction: column;
+  background-color: bisque;
+  align-items: center;
+}
+.book-form {
+  display: flex;
+  flex-direction: column;
+  width: 50%;
+  gap: 8px;
+}
+.book-form input {
+  padding: 15px;
+  border-radius: 6px;
+}
+.book-form label {
+  padding: 5px;
+  font-weight: 500;
+  font-size: larger;
+}
+.book-form button {
+    width: 20%;
+  }
+  
